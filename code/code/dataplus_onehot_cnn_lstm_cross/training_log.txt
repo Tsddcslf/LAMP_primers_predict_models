@@ -1,0 +1,496 @@
+2025-04-30 11:35:03,706 - INFO - 类别分布: [2459221  156201   99359  141087  138053  153755  101534  140921  139869]
+2025-04-30 11:35:03,707 - INFO - 类别权重: [0.05921544 0.93228495 1.46563312 1.03215634 1.05484011 0.94711614
+ 1.43423722 1.03337218 1.04114451]
+2025-04-30 11:35:07,241 - INFO - Epoch 1/150
+2025-04-30 11:35:15,321 - INFO - Train Loss: 2.1968, Train Accuracy: 0.0809
+2025-04-30 11:35:15,620 - INFO - Val Loss: 2.1957, Val Accuracy: 0.0654
+2025-04-30 11:35:15,758 - INFO - Best model saved with accuracy: 0.0654
+2025-04-30 11:35:15,758 - INFO - Epoch 2/150
+2025-04-30 11:35:21,204 - INFO - Train Loss: 2.1784, Train Accuracy: 0.0992
+2025-04-30 11:35:21,506 - INFO - Val Loss: 2.1944, Val Accuracy: 0.0595
+2025-04-30 11:35:21,506 - INFO - Epoch 3/150
+2025-04-30 11:35:26,823 - INFO - Train Loss: 2.1363, Train Accuracy: 0.1144
+2025-04-30 11:35:27,132 - INFO - Val Loss: 2.0939, Val Accuracy: 0.1107
+2025-04-30 11:35:27,231 - INFO - Best model saved with accuracy: 0.1107
+2025-04-30 11:35:27,232 - INFO - Epoch 4/150
+2025-04-30 11:35:32,690 - INFO - Train Loss: 1.9892, Train Accuracy: 0.1117
+2025-04-30 11:35:32,988 - INFO - Val Loss: 2.0369, Val Accuracy: 0.1466
+2025-04-30 11:35:33,072 - INFO - Best model saved with accuracy: 0.1466
+2025-04-30 11:35:33,072 - INFO - Epoch 5/150
+2025-04-30 11:35:38,435 - INFO - Train Loss: 1.9308, Train Accuracy: 0.1056
+2025-04-30 11:35:38,734 - INFO - Val Loss: 1.9507, Val Accuracy: 0.0850
+2025-04-30 11:35:38,734 - INFO - Epoch 6/150
+2025-04-30 11:35:44,196 - INFO - Train Loss: 1.9511, Train Accuracy: 0.0841
+2025-04-30 11:35:44,489 - INFO - Val Loss: 1.9739, Val Accuracy: 0.0959
+2025-04-30 11:35:44,489 - INFO - Epoch 7/150
+2025-04-30 11:35:49,904 - INFO - Train Loss: 1.9250, Train Accuracy: 0.0912
+2025-04-30 11:35:50,198 - INFO - Val Loss: 1.9605, Val Accuracy: 0.0831
+2025-04-30 11:35:50,198 - INFO - Epoch 8/150
+2025-04-30 11:35:55,711 - INFO - Train Loss: 1.9118, Train Accuracy: 0.0969
+2025-04-30 11:35:56,001 - INFO - Val Loss: 1.9251, Val Accuracy: 0.0904
+2025-04-30 11:35:56,001 - INFO - Epoch 9/150
+2025-04-30 11:36:01,514 - INFO - Train Loss: 1.9077, Train Accuracy: 0.0980
+2025-04-30 11:36:01,806 - INFO - Val Loss: 1.9414, Val Accuracy: 0.0836
+2025-04-30 11:36:01,806 - INFO - Epoch 10/150
+2025-04-30 11:36:07,079 - INFO - Train Loss: 1.8905, Train Accuracy: 0.1052
+2025-04-30 11:36:07,375 - INFO - Val Loss: 1.9264, Val Accuracy: 0.0878
+2025-04-30 11:36:07,375 - INFO - Epoch 11/150
+2025-04-30 11:36:12,599 - INFO - Train Loss: 1.8899, Train Accuracy: 0.1066
+2025-04-30 11:36:12,892 - INFO - Val Loss: 1.9966, Val Accuracy: 0.0914
+2025-04-30 11:36:12,892 - INFO - Epoch 12/150
+2025-04-30 11:36:18,370 - INFO - Train Loss: 1.8815, Train Accuracy: 0.1085
+2025-04-30 11:36:18,662 - INFO - Val Loss: 1.9326, Val Accuracy: 0.0900
+2025-04-30 11:36:18,662 - INFO - Epoch 13/150
+2025-04-30 11:36:24,093 - INFO - Train Loss: 1.8564, Train Accuracy: 0.1157
+2025-04-30 11:36:24,392 - INFO - Val Loss: 1.9444, Val Accuracy: 0.1051
+2025-04-30 11:36:24,392 - INFO - Epoch 14/150
+2025-04-30 11:36:29,763 - INFO - Train Loss: 1.8553, Train Accuracy: 0.1237
+2025-04-30 11:36:30,063 - INFO - Val Loss: 1.9179, Val Accuracy: 0.0964
+2025-04-30 11:36:30,063 - INFO - Epoch 15/150
+2025-04-30 11:36:35,471 - INFO - Train Loss: 1.8368, Train Accuracy: 0.1339
+2025-04-30 11:36:35,766 - INFO - Val Loss: 1.9607, Val Accuracy: 0.1060
+2025-04-30 11:36:35,766 - INFO - Epoch 16/150
+2025-04-30 11:36:40,972 - INFO - Train Loss: 1.8367, Train Accuracy: 0.1410
+2025-04-30 11:36:41,263 - INFO - Val Loss: 1.9485, Val Accuracy: 0.1735
+2025-04-30 11:36:41,362 - INFO - Best model saved with accuracy: 0.1735
+2025-04-30 11:36:41,362 - INFO - Epoch 17/150
+2025-04-30 11:36:46,673 - INFO - Train Loss: 1.8148, Train Accuracy: 0.1501
+2025-04-30 11:36:46,970 - INFO - Val Loss: 1.9310, Val Accuracy: 0.1458
+2025-04-30 11:36:46,970 - INFO - Epoch 18/150
+2025-04-30 11:36:52,577 - INFO - Train Loss: 1.8242, Train Accuracy: 0.1460
+2025-04-30 11:36:52,880 - INFO - Val Loss: 1.9321, Val Accuracy: 0.1289
+2025-04-30 11:36:52,880 - INFO - Epoch 19/150
+2025-04-30 11:36:58,383 - INFO - Train Loss: 1.7863, Train Accuracy: 0.1703
+2025-04-30 11:36:58,674 - INFO - Val Loss: 1.9214, Val Accuracy: 0.1548
+2025-04-30 11:36:58,674 - INFO - Epoch 20/150
+2025-04-30 11:37:04,280 - INFO - Train Loss: 1.7745, Train Accuracy: 0.1845
+2025-04-30 11:37:04,593 - INFO - Val Loss: 1.8603, Val Accuracy: 0.1395
+2025-04-30 11:37:04,593 - INFO - Epoch 21/150
+2025-04-30 11:37:10,217 - INFO - Train Loss: 1.7560, Train Accuracy: 0.1990
+2025-04-30 11:37:10,515 - INFO - Val Loss: 1.8795, Val Accuracy: 0.2098
+2025-04-30 11:37:10,648 - INFO - Best model saved with accuracy: 0.2098
+2025-04-30 11:37:10,649 - INFO - Epoch 22/150
+2025-04-30 11:37:16,102 - INFO - Train Loss: 1.7261, Train Accuracy: 0.2195
+2025-04-30 11:37:16,399 - INFO - Val Loss: 1.9286, Val Accuracy: 0.2131
+2025-04-30 11:37:16,528 - INFO - Best model saved with accuracy: 0.2131
+2025-04-30 11:37:16,529 - INFO - Epoch 23/150
+2025-04-30 11:37:21,785 - INFO - Train Loss: 1.7245, Train Accuracy: 0.2256
+2025-04-30 11:37:22,078 - INFO - Val Loss: 1.9155, Val Accuracy: 0.2386
+2025-04-30 11:37:22,240 - INFO - Best model saved with accuracy: 0.2386
+2025-04-30 11:37:22,240 - INFO - Epoch 24/150
+2025-04-30 11:37:27,813 - INFO - Train Loss: 1.7043, Train Accuracy: 0.2365
+2025-04-30 11:37:28,110 - INFO - Val Loss: 1.8762, Val Accuracy: 0.2006
+2025-04-30 11:37:28,110 - INFO - Epoch 25/150
+2025-04-30 11:37:33,538 - INFO - Train Loss: 1.6787, Train Accuracy: 0.2507
+2025-04-30 11:37:33,850 - INFO - Val Loss: 1.8477, Val Accuracy: 0.2218
+2025-04-30 11:37:33,850 - INFO - Epoch 26/150
+2025-04-30 11:37:39,349 - INFO - Train Loss: 1.6421, Train Accuracy: 0.2720
+2025-04-30 11:37:39,647 - INFO - Val Loss: 1.8921, Val Accuracy: 0.2897
+2025-04-30 11:37:39,758 - INFO - Best model saved with accuracy: 0.2897
+2025-04-30 11:37:39,758 - INFO - Epoch 27/150
+2025-04-30 11:37:45,179 - INFO - Train Loss: 1.6381, Train Accuracy: 0.2735
+2025-04-30 11:37:45,473 - INFO - Val Loss: 1.8384, Val Accuracy: 0.2189
+2025-04-30 11:37:45,473 - INFO - Epoch 28/150
+2025-04-30 11:37:50,757 - INFO - Train Loss: 1.5972, Train Accuracy: 0.2927
+2025-04-30 11:37:51,062 - INFO - Val Loss: 1.8969, Val Accuracy: 0.2533
+2025-04-30 11:37:51,063 - INFO - Epoch 29/150
+2025-04-30 11:37:56,349 - INFO - Train Loss: 1.5673, Train Accuracy: 0.3022
+2025-04-30 11:37:56,644 - INFO - Val Loss: 1.9496, Val Accuracy: 0.2558
+2025-04-30 11:37:56,644 - INFO - Epoch 30/150
+2025-04-30 11:38:02,016 - INFO - Train Loss: 1.5406, Train Accuracy: 0.3124
+2025-04-30 11:38:02,310 - INFO - Val Loss: 1.8624, Val Accuracy: 0.2792
+2025-04-30 11:38:02,310 - INFO - Epoch 31/150
+2025-04-30 11:38:07,717 - INFO - Train Loss: 1.5099, Train Accuracy: 0.3258
+2025-04-30 11:38:08,025 - INFO - Val Loss: 1.9493, Val Accuracy: 0.3092
+2025-04-30 11:38:08,171 - INFO - Best model saved with accuracy: 0.3092
+2025-04-30 11:38:08,171 - INFO - Epoch 32/150
+2025-04-30 11:38:13,343 - INFO - Train Loss: 1.4760, Train Accuracy: 0.3343
+2025-04-30 11:38:13,641 - INFO - Val Loss: 2.0214, Val Accuracy: 0.2992
+2025-04-30 11:38:13,641 - INFO - Epoch 33/150
+2025-04-30 11:38:19,159 - INFO - Train Loss: 1.4366, Train Accuracy: 0.3507
+2025-04-30 11:38:19,455 - INFO - Val Loss: 1.9815, Val Accuracy: 0.2884
+2025-04-30 11:38:19,456 - INFO - Epoch 34/150
+2025-04-30 11:38:24,766 - INFO - Train Loss: 1.4036, Train Accuracy: 0.3542
+2025-04-30 11:38:25,063 - INFO - Val Loss: 1.9015, Val Accuracy: 0.2526
+2025-04-30 11:38:25,063 - INFO - Epoch 35/150
+2025-04-30 11:38:30,554 - INFO - Train Loss: 1.3608, Train Accuracy: 0.3657
+2025-04-30 11:38:30,855 - INFO - Val Loss: 2.0374, Val Accuracy: 0.2985
+2025-04-30 11:38:30,855 - INFO - Epoch 36/150
+2025-04-30 11:38:36,061 - INFO - Train Loss: 1.3385, Train Accuracy: 0.3705
+2025-04-30 11:38:36,356 - INFO - Val Loss: 2.1119, Val Accuracy: 0.3391
+2025-04-30 11:38:36,468 - INFO - Best model saved with accuracy: 0.3391
+2025-04-30 11:38:36,469 - INFO - Epoch 37/150
+2025-04-30 11:38:41,930 - INFO - Train Loss: 1.2821, Train Accuracy: 0.3890
+2025-04-30 11:38:42,230 - INFO - Val Loss: 2.2030, Val Accuracy: 0.3574
+2025-04-30 11:38:42,370 - INFO - Best model saved with accuracy: 0.3574
+2025-04-30 11:38:42,371 - INFO - Epoch 38/150
+2025-04-30 11:38:47,634 - INFO - Train Loss: 1.2271, Train Accuracy: 0.4058
+2025-04-30 11:38:47,926 - INFO - Val Loss: 2.0669, Val Accuracy: 0.3075
+2025-04-30 11:38:47,926 - INFO - Epoch 39/150
+2025-04-30 11:38:53,340 - INFO - Train Loss: 1.1886, Train Accuracy: 0.4228
+2025-04-30 11:38:53,639 - INFO - Val Loss: 2.1492, Val Accuracy: 0.3519
+2025-04-30 11:38:53,640 - INFO - Epoch 40/150
+2025-04-30 11:38:59,158 - INFO - Train Loss: 1.1439, Train Accuracy: 0.4309
+2025-04-30 11:38:59,450 - INFO - Val Loss: 2.3195, Val Accuracy: 0.3783
+2025-04-30 11:38:59,600 - INFO - Best model saved with accuracy: 0.3783
+2025-04-30 11:38:59,601 - INFO - Epoch 41/150
+2025-04-30 11:39:04,997 - INFO - Train Loss: 1.0769, Train Accuracy: 0.4551
+2025-04-30 11:39:05,290 - INFO - Val Loss: 2.4484, Val Accuracy: 0.4130
+2025-04-30 11:39:05,385 - INFO - Best model saved with accuracy: 0.4130
+2025-04-30 11:39:05,385 - INFO - Epoch 42/150
+2025-04-30 11:39:11,171 - INFO - Train Loss: 1.0523, Train Accuracy: 0.4631
+2025-04-30 11:39:11,470 - INFO - Val Loss: 2.3422, Val Accuracy: 0.3417
+2025-04-30 11:39:11,471 - INFO - Epoch 43/150
+2025-04-30 11:39:16,621 - INFO - Train Loss: 1.0078, Train Accuracy: 0.4756
+2025-04-30 11:39:16,916 - INFO - Val Loss: 2.5509, Val Accuracy: 0.3769
+2025-04-30 11:39:16,916 - INFO - Epoch 44/150
+2025-04-30 11:39:22,425 - INFO - Train Loss: 0.9627, Train Accuracy: 0.4885
+2025-04-30 11:39:22,735 - INFO - Val Loss: 2.4492, Val Accuracy: 0.3824
+2025-04-30 11:39:22,735 - INFO - Epoch 45/150
+2025-04-30 11:39:28,113 - INFO - Train Loss: 0.9199, Train Accuracy: 0.5051
+2025-04-30 11:39:28,404 - INFO - Val Loss: 2.5207, Val Accuracy: 0.3790
+2025-04-30 11:39:28,404 - INFO - Epoch 46/150
+2025-04-30 11:39:33,719 - INFO - Train Loss: 0.8787, Train Accuracy: 0.5211
+2025-04-30 11:39:34,017 - INFO - Val Loss: 2.6786, Val Accuracy: 0.4121
+2025-04-30 11:39:34,017 - INFO - Epoch 47/150
+2025-04-30 11:39:39,373 - INFO - Train Loss: 0.8288, Train Accuracy: 0.5430
+2025-04-30 11:39:39,689 - INFO - Val Loss: 2.7780, Val Accuracy: 0.3862
+2025-04-30 11:39:39,689 - INFO - Epoch 48/150
+2025-04-30 11:39:45,488 - INFO - Train Loss: 0.7985, Train Accuracy: 0.5509
+2025-04-30 11:39:45,791 - INFO - Val Loss: 2.8924, Val Accuracy: 0.4019
+2025-04-30 11:39:45,791 - INFO - Epoch 49/150
+2025-04-30 11:39:51,149 - INFO - Train Loss: 0.7867, Train Accuracy: 0.5581
+2025-04-30 11:39:51,440 - INFO - Val Loss: 2.8677, Val Accuracy: 0.4375
+2025-04-30 11:39:51,668 - INFO - Best model saved with accuracy: 0.4375
+2025-04-30 11:39:51,668 - INFO - Epoch 50/150
+2025-04-30 11:39:57,152 - INFO - Train Loss: 0.7434, Train Accuracy: 0.5754
+2025-04-30 11:39:57,455 - INFO - Val Loss: 3.0661, Val Accuracy: 0.4251
+2025-04-30 11:39:57,455 - INFO - Epoch 51/150
+2025-04-30 11:40:03,012 - INFO - Train Loss: 0.7066, Train Accuracy: 0.5885
+2025-04-30 11:40:03,306 - INFO - Val Loss: 3.1033, Val Accuracy: 0.4315
+2025-04-30 11:40:03,306 - INFO - Epoch 52/150
+2025-04-30 11:40:08,884 - INFO - Train Loss: 0.7069, Train Accuracy: 0.5868
+2025-04-30 11:40:09,177 - INFO - Val Loss: 3.1930, Val Accuracy: 0.4313
+2025-04-30 11:40:09,177 - INFO - Epoch 53/150
+2025-04-30 11:40:14,697 - INFO - Train Loss: 0.6568, Train Accuracy: 0.6119
+2025-04-30 11:40:14,987 - INFO - Val Loss: 3.2860, Val Accuracy: 0.4696
+2025-04-30 11:40:15,157 - INFO - Best model saved with accuracy: 0.4696
+2025-04-30 11:40:15,157 - INFO - Epoch 54/150
+2025-04-30 11:40:20,607 - INFO - Train Loss: 0.6357, Train Accuracy: 0.6222
+2025-04-30 11:40:20,950 - INFO - Val Loss: 3.1695, Val Accuracy: 0.4643
+2025-04-30 11:40:20,951 - INFO - Epoch 55/150
+2025-04-30 11:40:26,433 - INFO - Train Loss: 0.6440, Train Accuracy: 0.6137
+2025-04-30 11:40:26,726 - INFO - Val Loss: 3.3408, Val Accuracy: 0.4744
+2025-04-30 11:40:26,839 - INFO - Best model saved with accuracy: 0.4744
+2025-04-30 11:40:26,839 - INFO - Epoch 56/150
+2025-04-30 11:40:32,184 - INFO - Train Loss: 0.6032, Train Accuracy: 0.6334
+2025-04-30 11:40:32,477 - INFO - Val Loss: 3.2700, Val Accuracy: 0.4609
+2025-04-30 11:40:32,478 - INFO - Epoch 57/150
+2025-04-30 11:40:38,013 - INFO - Train Loss: 0.6054, Train Accuracy: 0.6341
+2025-04-30 11:40:38,313 - INFO - Val Loss: 3.4588, Val Accuracy: 0.4609
+2025-04-30 11:40:38,313 - INFO - Epoch 58/150
+2025-04-30 11:40:43,944 - INFO - Train Loss: 0.5713, Train Accuracy: 0.6492
+2025-04-30 11:40:44,246 - INFO - Val Loss: 3.6669, Val Accuracy: 0.4712
+2025-04-30 11:40:44,246 - INFO - Epoch 59/150
+2025-04-30 11:40:49,701 - INFO - Train Loss: 0.5509, Train Accuracy: 0.6574
+2025-04-30 11:40:50,001 - INFO - Val Loss: 3.7545, Val Accuracy: 0.4958
+2025-04-30 11:40:50,134 - INFO - Best model saved with accuracy: 0.4958
+2025-04-30 11:40:50,135 - INFO - Epoch 60/150
+2025-04-30 11:40:55,552 - INFO - Train Loss: 0.6009, Train Accuracy: 0.6289
+2025-04-30 11:40:55,854 - INFO - Val Loss: 3.3805, Val Accuracy: 0.4485
+2025-04-30 11:40:55,854 - INFO - Epoch 61/150
+2025-04-30 11:41:01,387 - INFO - Train Loss: 0.5562, Train Accuracy: 0.6470
+2025-04-30 11:41:01,692 - INFO - Val Loss: 3.8032, Val Accuracy: 0.4740
+2025-04-30 11:41:01,692 - INFO - Epoch 62/150
+2025-04-30 11:41:06,978 - INFO - Train Loss: 0.5317, Train Accuracy: 0.6659
+2025-04-30 11:41:07,281 - INFO - Val Loss: 4.0400, Val Accuracy: 0.4986
+2025-04-30 11:41:07,396 - INFO - Best model saved with accuracy: 0.4986
+2025-04-30 11:41:07,396 - INFO - Epoch 63/150
+2025-04-30 11:41:12,987 - INFO - Train Loss: 0.5174, Train Accuracy: 0.6709
+2025-04-30 11:41:13,250 - INFO - Val Loss: 3.5999, Val Accuracy: 0.4709
+2025-04-30 11:41:13,250 - INFO - Epoch 64/150
+2025-04-30 11:41:18,633 - INFO - Train Loss: 0.4971, Train Accuracy: 0.6790
+2025-04-30 11:41:18,900 - INFO - Val Loss: 3.8761, Val Accuracy: 0.4853
+2025-04-30 11:41:18,900 - INFO - Epoch 65/150
+2025-04-30 11:41:24,212 - INFO - Train Loss: 0.4849, Train Accuracy: 0.6884
+2025-04-30 11:41:24,513 - INFO - Val Loss: 4.0512, Val Accuracy: 0.4938
+2025-04-30 11:41:24,513 - INFO - Epoch 66/150
+2025-04-30 11:41:29,888 - INFO - Train Loss: 0.4994, Train Accuracy: 0.6788
+2025-04-30 11:41:30,179 - INFO - Val Loss: 4.0273, Val Accuracy: 0.5004
+2025-04-30 11:41:30,313 - INFO - Best model saved with accuracy: 0.5004
+2025-04-30 11:41:30,313 - INFO - Epoch 67/150
+2025-04-30 11:41:35,718 - INFO - Train Loss: 0.4699, Train Accuracy: 0.6926
+2025-04-30 11:41:36,011 - INFO - Val Loss: 4.1058, Val Accuracy: 0.5011
+2025-04-30 11:41:36,158 - INFO - Best model saved with accuracy: 0.5011
+2025-04-30 11:41:36,158 - INFO - Epoch 68/150
+2025-04-30 11:41:41,695 - INFO - Train Loss: 0.4619, Train Accuracy: 0.6974
+2025-04-30 11:41:41,998 - INFO - Val Loss: 4.3072, Val Accuracy: 0.5131
+2025-04-30 11:41:42,183 - INFO - Best model saved with accuracy: 0.5131
+2025-04-30 11:41:42,183 - INFO - Epoch 69/150
+2025-04-30 11:41:47,629 - INFO - Train Loss: 0.4575, Train Accuracy: 0.6993
+2025-04-30 11:41:47,925 - INFO - Val Loss: 4.3476, Val Accuracy: 0.5140
+2025-04-30 11:41:48,120 - INFO - Best model saved with accuracy: 0.5140
+2025-04-30 11:41:48,120 - INFO - Epoch 70/150
+2025-04-30 11:41:53,297 - INFO - Train Loss: 0.5154, Train Accuracy: 0.6725
+2025-04-30 11:41:53,590 - INFO - Val Loss: 3.5105, Val Accuracy: 0.4450
+2025-04-30 11:41:53,590 - INFO - Epoch 71/150
+2025-04-30 11:41:58,973 - INFO - Train Loss: 0.4868, Train Accuracy: 0.6809
+2025-04-30 11:41:59,268 - INFO - Val Loss: 4.3908, Val Accuracy: 0.5030
+2025-04-30 11:41:59,268 - INFO - Epoch 72/150
+2025-04-30 11:42:04,682 - INFO - Train Loss: 0.4461, Train Accuracy: 0.7044
+2025-04-30 11:42:04,981 - INFO - Val Loss: 4.1868, Val Accuracy: 0.4965
+2025-04-30 11:42:04,981 - INFO - Epoch 73/150
+2025-04-30 11:42:10,308 - INFO - Train Loss: 0.4315, Train Accuracy: 0.7085
+2025-04-30 11:42:10,611 - INFO - Val Loss: 4.2682, Val Accuracy: 0.5148
+2025-04-30 11:42:10,719 - INFO - Best model saved with accuracy: 0.5148
+2025-04-30 11:42:10,719 - INFO - Epoch 74/150
+2025-04-30 11:42:16,234 - INFO - Train Loss: 0.4221, Train Accuracy: 0.7131
+2025-04-30 11:42:16,540 - INFO - Val Loss: 4.4851, Val Accuracy: 0.5152
+2025-04-30 11:42:16,625 - INFO - Best model saved with accuracy: 0.5152
+2025-04-30 11:42:16,625 - INFO - Epoch 75/150
+2025-04-30 11:42:22,018 - INFO - Train Loss: 0.4435, Train Accuracy: 0.7059
+2025-04-30 11:42:22,313 - INFO - Val Loss: 4.1035, Val Accuracy: 0.4673
+2025-04-30 11:42:22,313 - INFO - Epoch 76/150
+2025-04-30 11:42:27,704 - INFO - Train Loss: 0.4471, Train Accuracy: 0.6988
+2025-04-30 11:42:28,006 - INFO - Val Loss: 4.3919, Val Accuracy: 0.5152
+2025-04-30 11:42:28,115 - INFO - Best model saved with accuracy: 0.5152
+2025-04-30 11:42:28,115 - INFO - Epoch 77/150
+2025-04-30 11:42:33,869 - INFO - Train Loss: 0.4211, Train Accuracy: 0.7124
+2025-04-30 11:42:34,159 - INFO - Val Loss: 4.4234, Val Accuracy: 0.5169
+2025-04-30 11:42:34,335 - INFO - Best model saved with accuracy: 0.5169
+2025-04-30 11:42:34,335 - INFO - Epoch 78/150
+2025-04-30 11:42:39,768 - INFO - Train Loss: 0.4243, Train Accuracy: 0.7100
+2025-04-30 11:42:40,063 - INFO - Val Loss: 4.5850, Val Accuracy: 0.5259
+2025-04-30 11:42:40,166 - INFO - Best model saved with accuracy: 0.5259
+2025-04-30 11:42:40,166 - INFO - Epoch 79/150
+2025-04-30 11:42:45,643 - INFO - Train Loss: 0.4127, Train Accuracy: 0.7174
+2025-04-30 11:42:45,943 - INFO - Val Loss: 4.6562, Val Accuracy: 0.5250
+2025-04-30 11:42:45,943 - INFO - Epoch 80/150
+2025-04-30 11:42:51,344 - INFO - Train Loss: 0.4303, Train Accuracy: 0.7104
+2025-04-30 11:42:51,639 - INFO - Val Loss: 4.7207, Val Accuracy: 0.5260
+2025-04-30 11:42:51,754 - INFO - Best model saved with accuracy: 0.5260
+2025-04-30 11:42:51,754 - INFO - Epoch 81/150
+2025-04-30 11:42:56,925 - INFO - Train Loss: 0.4276, Train Accuracy: 0.7140
+2025-04-30 11:42:57,219 - INFO - Val Loss: 4.6624, Val Accuracy: 0.5260
+2025-04-30 11:42:57,355 - INFO - Best model saved with accuracy: 0.5260
+2025-04-30 11:42:57,355 - INFO - Epoch 82/150
+2025-04-30 11:43:02,805 - INFO - Train Loss: 0.3931, Train Accuracy: 0.7263
+2025-04-30 11:43:03,114 - INFO - Val Loss: 5.0150, Val Accuracy: 0.5340
+2025-04-30 11:43:03,216 - INFO - Best model saved with accuracy: 0.5340
+2025-04-30 11:43:03,216 - INFO - Epoch 83/150
+2025-04-30 11:43:08,759 - INFO - Train Loss: 0.3845, Train Accuracy: 0.7299
+2025-04-30 11:43:09,051 - INFO - Val Loss: 4.8294, Val Accuracy: 0.5362
+2025-04-30 11:43:09,245 - INFO - Best model saved with accuracy: 0.5362
+2025-04-30 11:43:09,246 - INFO - Epoch 84/150
+2025-04-30 11:43:14,557 - INFO - Train Loss: 0.3982, Train Accuracy: 0.7262
+2025-04-30 11:43:14,849 - INFO - Val Loss: 4.1848, Val Accuracy: 0.4491
+2025-04-30 11:43:14,849 - INFO - Epoch 85/150
+2025-04-30 11:43:20,379 - INFO - Train Loss: 0.4410, Train Accuracy: 0.6983
+2025-04-30 11:43:20,673 - INFO - Val Loss: 4.9804, Val Accuracy: 0.5340
+2025-04-30 11:43:20,673 - INFO - Epoch 86/150
+2025-04-30 11:43:26,273 - INFO - Train Loss: 0.3787, Train Accuracy: 0.7330
+2025-04-30 11:43:26,566 - INFO - Val Loss: 4.5906, Val Accuracy: 0.5299
+2025-04-30 11:43:26,566 - INFO - Epoch 87/150
+2025-04-30 11:43:32,173 - INFO - Train Loss: 0.3897, Train Accuracy: 0.7278
+2025-04-30 11:43:32,465 - INFO - Val Loss: 5.1498, Val Accuracy: 0.5304
+2025-04-30 11:43:32,465 - INFO - Epoch 88/150
+2025-04-30 11:43:37,943 - INFO - Train Loss: 0.3718, Train Accuracy: 0.7361
+2025-04-30 11:43:38,260 - INFO - Val Loss: 4.9184, Val Accuracy: 0.5221
+2025-04-30 11:43:38,260 - INFO - Epoch 89/150
+2025-04-30 11:43:43,696 - INFO - Train Loss: 0.3663, Train Accuracy: 0.7393
+2025-04-30 11:43:44,000 - INFO - Val Loss: 5.3226, Val Accuracy: 0.5271
+2025-04-30 11:43:44,000 - INFO - Epoch 90/150
+2025-04-30 11:43:49,591 - INFO - Train Loss: 0.3741, Train Accuracy: 0.7357
+2025-04-30 11:43:49,894 - INFO - Val Loss: 5.2184, Val Accuracy: 0.5169
+2025-04-30 11:43:49,894 - INFO - Epoch 91/150
+2025-04-30 11:43:55,395 - INFO - Train Loss: 0.4029, Train Accuracy: 0.7205
+2025-04-30 11:43:55,688 - INFO - Val Loss: 4.2331, Val Accuracy: 0.4894
+2025-04-30 11:43:55,688 - INFO - Epoch 92/150
+2025-04-30 11:44:01,193 - INFO - Train Loss: 0.4092, Train Accuracy: 0.7167
+2025-04-30 11:44:01,483 - INFO - Val Loss: 4.9524, Val Accuracy: 0.5350
+2025-04-30 11:44:01,483 - INFO - Epoch 93/150
+2025-04-30 11:44:07,024 - INFO - Train Loss: 0.3644, Train Accuracy: 0.7404
+2025-04-30 11:44:07,315 - INFO - Val Loss: 5.2001, Val Accuracy: 0.5399
+2025-04-30 11:44:07,430 - INFO - Best model saved with accuracy: 0.5399
+2025-04-30 11:44:07,430 - INFO - Epoch 94/150
+2025-04-30 11:44:12,678 - INFO - Train Loss: 0.3634, Train Accuracy: 0.7394
+2025-04-30 11:44:12,983 - INFO - Val Loss: 5.3686, Val Accuracy: 0.5484
+2025-04-30 11:44:13,141 - INFO - Best model saved with accuracy: 0.5484
+2025-04-30 11:44:13,141 - INFO - Epoch 95/150
+2025-04-30 11:44:18,245 - INFO - Train Loss: 0.3539, Train Accuracy: 0.7452
+2025-04-30 11:44:18,541 - INFO - Val Loss: 5.3762, Val Accuracy: 0.5356
+2025-04-30 11:44:18,542 - INFO - Epoch 96/150
+2025-04-30 11:44:23,937 - INFO - Train Loss: 0.3546, Train Accuracy: 0.7456
+2025-04-30 11:44:24,241 - INFO - Val Loss: 5.6555, Val Accuracy: 0.5469
+2025-04-30 11:44:24,241 - INFO - Epoch 97/150
+2025-04-30 11:44:29,592 - INFO - Train Loss: 0.3544, Train Accuracy: 0.7455
+2025-04-30 11:44:29,890 - INFO - Val Loss: 5.5280, Val Accuracy: 0.5411
+2025-04-30 11:44:29,890 - INFO - Epoch 98/150
+2025-04-30 11:44:35,328 - INFO - Train Loss: 0.3817, Train Accuracy: 0.7339
+2025-04-30 11:44:35,623 - INFO - Val Loss: 4.8235, Val Accuracy: 0.5311
+2025-04-30 11:44:35,623 - INFO - Epoch 99/150
+2025-04-30 11:44:40,959 - INFO - Train Loss: 0.3760, Train Accuracy: 0.7350
+2025-04-30 11:44:41,262 - INFO - Val Loss: 5.4469, Val Accuracy: 0.5393
+2025-04-30 11:44:41,262 - INFO - Epoch 100/150
+2025-04-30 11:44:46,588 - INFO - Train Loss: 0.3622, Train Accuracy: 0.7433
+2025-04-30 11:44:46,885 - INFO - Val Loss: 5.2444, Val Accuracy: 0.5178
+2025-04-30 11:44:46,886 - INFO - Epoch 101/150
+2025-04-30 11:44:52,337 - INFO - Train Loss: 0.3538, Train Accuracy: 0.7460
+2025-04-30 11:44:52,635 - INFO - Val Loss: 5.6358, Val Accuracy: 0.5394
+2025-04-30 11:44:52,635 - INFO - Epoch 102/150
+2025-04-30 11:44:58,348 - INFO - Train Loss: 0.3483, Train Accuracy: 0.7485
+2025-04-30 11:44:58,656 - INFO - Val Loss: 5.6190, Val Accuracy: 0.5591
+2025-04-30 11:44:58,692 - INFO - Best model saved with accuracy: 0.5591
+2025-04-30 11:44:58,692 - INFO - Epoch 103/150
+2025-04-30 11:45:04,462 - INFO - Train Loss: 0.3495, Train Accuracy: 0.7481
+2025-04-30 11:45:04,786 - INFO - Val Loss: 5.3814, Val Accuracy: 0.5381
+2025-04-30 11:45:04,786 - INFO - Epoch 104/150
+2025-04-30 11:45:10,504 - INFO - Train Loss: 0.3510, Train Accuracy: 0.7483
+2025-04-30 11:45:10,800 - INFO - Val Loss: 5.5612, Val Accuracy: 0.5253
+2025-04-30 11:45:10,800 - INFO - Epoch 105/150
+2025-04-30 11:45:16,533 - INFO - Train Loss: 0.3463, Train Accuracy: 0.7496
+2025-04-30 11:45:16,830 - INFO - Val Loss: 5.8905, Val Accuracy: 0.5463
+2025-04-30 11:45:16,831 - INFO - Epoch 106/150
+2025-04-30 11:45:22,380 - INFO - Train Loss: 0.3426, Train Accuracy: 0.7536
+2025-04-30 11:45:22,671 - INFO - Val Loss: 5.4456, Val Accuracy: 0.5124
+2025-04-30 11:45:22,671 - INFO - Epoch 107/150
+2025-04-30 11:45:28,264 - INFO - Train Loss: 0.3553, Train Accuracy: 0.7432
+2025-04-30 11:45:28,557 - INFO - Val Loss: 5.6622, Val Accuracy: 0.5686
+2025-04-30 11:45:28,600 - INFO - Best model saved with accuracy: 0.5686
+2025-04-30 11:45:28,600 - INFO - Epoch 108/150
+2025-04-30 11:45:34,032 - INFO - Train Loss: 0.3427, Train Accuracy: 0.7508
+2025-04-30 11:45:34,335 - INFO - Val Loss: 5.6286, Val Accuracy: 0.5456
+2025-04-30 11:45:34,336 - INFO - Epoch 109/150
+2025-04-30 11:45:39,588 - INFO - Train Loss: 0.3463, Train Accuracy: 0.7494
+2025-04-30 11:45:39,879 - INFO - Val Loss: 5.8901, Val Accuracy: 0.5447
+2025-04-30 11:45:39,880 - INFO - Epoch 110/150
+2025-04-30 11:45:45,296 - INFO - Train Loss: 0.3293, Train Accuracy: 0.7581
+2025-04-30 11:45:45,589 - INFO - Val Loss: 5.9313, Val Accuracy: 0.5674
+2025-04-30 11:45:45,590 - INFO - Epoch 111/150
+2025-04-30 11:45:51,186 - INFO - Train Loss: 0.3737, Train Accuracy: 0.7290
+2025-04-30 11:45:51,495 - INFO - Val Loss: 5.9139, Val Accuracy: 0.5473
+2025-04-30 11:45:51,496 - INFO - Epoch 112/150
+2025-04-30 11:45:57,104 - INFO - Train Loss: 0.3393, Train Accuracy: 0.7541
+2025-04-30 11:45:57,399 - INFO - Val Loss: 5.8911, Val Accuracy: 0.5553
+2025-04-30 11:45:57,399 - INFO - Epoch 113/150
+2025-04-30 11:46:03,102 - INFO - Train Loss: 0.3299, Train Accuracy: 0.7587
+2025-04-30 11:46:03,412 - INFO - Val Loss: 6.4419, Val Accuracy: 0.5636
+2025-04-30 11:46:03,412 - INFO - Epoch 114/150
+2025-04-30 11:46:08,937 - INFO - Train Loss: 0.3201, Train Accuracy: 0.7651
+2025-04-30 11:46:09,241 - INFO - Val Loss: 6.3164, Val Accuracy: 0.5640
+2025-04-30 11:46:09,241 - INFO - Epoch 115/150
+2025-04-30 11:46:14,941 - INFO - Train Loss: 0.3176, Train Accuracy: 0.7666
+2025-04-30 11:46:15,250 - INFO - Val Loss: 6.3428, Val Accuracy: 0.5638
+2025-04-30 11:46:15,250 - INFO - Epoch 116/150
+2025-04-30 11:46:20,540 - INFO - Train Loss: 0.3170, Train Accuracy: 0.7665
+2025-04-30 11:46:20,834 - INFO - Val Loss: 6.2213, Val Accuracy: 0.5675
+2025-04-30 11:46:20,834 - INFO - Epoch 117/150
+2025-04-30 11:46:25,923 - INFO - Train Loss: 0.3214, Train Accuracy: 0.7651
+2025-04-30 11:46:26,245 - INFO - Val Loss: 6.4616, Val Accuracy: 0.5643
+2025-04-30 11:46:26,246 - INFO - Epoch 118/150
+2025-04-30 11:46:31,760 - INFO - Train Loss: 0.3178, Train Accuracy: 0.7678
+2025-04-30 11:46:32,055 - INFO - Val Loss: 6.2342, Val Accuracy: 0.5650
+2025-04-30 11:46:32,055 - INFO - Epoch 119/150
+2025-04-30 11:46:37,529 - INFO - Train Loss: 0.3453, Train Accuracy: 0.7537
+2025-04-30 11:46:37,828 - INFO - Val Loss: 5.3861, Val Accuracy: 0.5335
+2025-04-30 11:46:37,828 - INFO - Epoch 120/150
+2025-04-30 11:46:43,484 - INFO - Train Loss: 0.3385, Train Accuracy: 0.7560
+2025-04-30 11:46:43,790 - INFO - Val Loss: 6.4184, Val Accuracy: 0.5694
+2025-04-30 11:46:43,825 - INFO - Best model saved with accuracy: 0.5694
+2025-04-30 11:46:43,825 - INFO - Epoch 121/150
+2025-04-30 11:46:49,378 - INFO - Train Loss: 0.3195, Train Accuracy: 0.7659
+2025-04-30 11:46:49,685 - INFO - Val Loss: 6.2723, Val Accuracy: 0.5708
+2025-04-30 11:46:49,720 - INFO - Best model saved with accuracy: 0.5708
+2025-04-30 11:46:49,720 - INFO - Epoch 122/150
+2025-04-30 11:46:55,112 - INFO - Train Loss: 0.3150, Train Accuracy: 0.7682
+2025-04-30 11:46:55,408 - INFO - Val Loss: 6.2589, Val Accuracy: 0.5579
+2025-04-30 11:46:55,409 - INFO - Epoch 123/150
+2025-04-30 11:47:00,827 - INFO - Train Loss: 0.3234, Train Accuracy: 0.7666
+2025-04-30 11:47:01,123 - INFO - Val Loss: 5.3060, Val Accuracy: 0.5158
+2025-04-30 11:47:01,123 - INFO - Epoch 124/150
+2025-04-30 11:47:06,584 - INFO - Train Loss: 0.3365, Train Accuracy: 0.7543
+2025-04-30 11:47:06,850 - INFO - Val Loss: 5.9302, Val Accuracy: 0.5601
+2025-04-30 11:47:06,850 - INFO - Epoch 125/150
+2025-04-30 11:47:12,374 - INFO - Train Loss: 0.3204, Train Accuracy: 0.7672
+2025-04-30 11:47:12,670 - INFO - Val Loss: 5.7782, Val Accuracy: 0.5599
+2025-04-30 11:47:12,670 - INFO - Epoch 126/150
+2025-04-30 11:47:18,155 - INFO - Train Loss: 0.3440, Train Accuracy: 0.7545
+2025-04-30 11:47:18,460 - INFO - Val Loss: 5.5668, Val Accuracy: 0.5602
+2025-04-30 11:47:18,460 - INFO - Epoch 127/150
+2025-04-30 11:47:24,032 - INFO - Train Loss: 0.3324, Train Accuracy: 0.7599
+2025-04-30 11:47:24,330 - INFO - Val Loss: 6.0218, Val Accuracy: 0.5627
+2025-04-30 11:47:24,330 - INFO - Epoch 128/150
+2025-04-30 11:47:29,915 - INFO - Train Loss: 0.3157, Train Accuracy: 0.7698
+2025-04-30 11:47:30,216 - INFO - Val Loss: 6.1807, Val Accuracy: 0.5679
+2025-04-30 11:47:30,216 - INFO - Epoch 129/150
+2025-04-30 11:47:35,797 - INFO - Train Loss: 0.3163, Train Accuracy: 0.7687
+2025-04-30 11:47:36,069 - INFO - Val Loss: 6.3221, Val Accuracy: 0.5551
+2025-04-30 11:47:36,069 - INFO - Epoch 130/150
+2025-04-30 11:47:41,586 - INFO - Train Loss: 0.3274, Train Accuracy: 0.7613
+2025-04-30 11:47:41,890 - INFO - Val Loss: 6.4861, Val Accuracy: 0.5580
+2025-04-30 11:47:41,890 - INFO - Epoch 131/150
+2025-04-30 11:47:47,425 - INFO - Train Loss: 0.3051, Train Accuracy: 0.7750
+2025-04-30 11:47:47,735 - INFO - Val Loss: 6.5993, Val Accuracy: 0.5686
+2025-04-30 11:47:47,735 - INFO - Epoch 132/150
+2025-04-30 11:47:53,381 - INFO - Train Loss: 0.2973, Train Accuracy: 0.7784
+2025-04-30 11:47:53,679 - INFO - Val Loss: 6.5417, Val Accuracy: 0.5683
+2025-04-30 11:47:53,679 - INFO - Epoch 133/150
+2025-04-30 11:47:59,270 - INFO - Train Loss: 0.3055, Train Accuracy: 0.7761
+2025-04-30 11:47:59,562 - INFO - Val Loss: 6.6688, Val Accuracy: 0.5620
+2025-04-30 11:47:59,562 - INFO - Epoch 134/150
+2025-04-30 11:48:05,180 - INFO - Train Loss: 0.3175, Train Accuracy: 0.7690
+2025-04-30 11:48:05,486 - INFO - Val Loss: 6.6866, Val Accuracy: 0.5684
+2025-04-30 11:48:05,486 - INFO - Epoch 135/150
+2025-04-30 11:48:10,934 - INFO - Train Loss: 0.3073, Train Accuracy: 0.7751
+2025-04-30 11:48:11,227 - INFO - Val Loss: 6.5760, Val Accuracy: 0.5590
+2025-04-30 11:48:11,227 - INFO - Epoch 136/150
+2025-04-30 11:48:16,653 - INFO - Train Loss: 0.3062, Train Accuracy: 0.7761
+2025-04-30 11:48:16,960 - INFO - Val Loss: 6.0316, Val Accuracy: 0.5497
+2025-04-30 11:48:16,960 - INFO - Epoch 137/150
+2025-04-30 11:48:22,313 - INFO - Train Loss: 0.3175, Train Accuracy: 0.7696
+2025-04-30 11:48:22,614 - INFO - Val Loss: 5.8223, Val Accuracy: 0.5641
+2025-04-30 11:48:22,614 - INFO - Epoch 138/150
+2025-04-30 11:48:27,921 - INFO - Train Loss: 0.3048, Train Accuracy: 0.7770
+2025-04-30 11:48:28,219 - INFO - Val Loss: 6.4196, Val Accuracy: 0.5735
+2025-04-30 11:48:28,251 - INFO - Best model saved with accuracy: 0.5735
+2025-04-30 11:48:28,251 - INFO - Epoch 139/150
+2025-04-30 11:48:33,992 - INFO - Train Loss: 0.3000, Train Accuracy: 0.7783
+2025-04-30 11:48:34,308 - INFO - Val Loss: 6.8399, Val Accuracy: 0.5706
+2025-04-30 11:48:34,308 - INFO - Epoch 140/150
+2025-04-30 11:48:39,631 - INFO - Train Loss: 0.2930, Train Accuracy: 0.7832
+2025-04-30 11:48:39,951 - INFO - Val Loss: 6.8296, Val Accuracy: 0.5743
+2025-04-30 11:48:39,987 - INFO - Best model saved with accuracy: 0.5743
+2025-04-30 11:48:39,987 - INFO - Epoch 141/150
+2025-04-30 11:48:45,475 - INFO - Train Loss: 0.2906, Train Accuracy: 0.7849
+2025-04-30 11:48:45,780 - INFO - Val Loss: 6.8526, Val Accuracy: 0.5789
+2025-04-30 11:48:45,812 - INFO - Best model saved with accuracy: 0.5789
+2025-04-30 11:48:45,812 - INFO - Epoch 142/150
+2025-04-30 11:48:51,173 - INFO - Train Loss: 0.2923, Train Accuracy: 0.7844
+2025-04-30 11:48:51,467 - INFO - Val Loss: 6.7371, Val Accuracy: 0.5893
+2025-04-30 11:48:51,518 - INFO - Best model saved with accuracy: 0.5893
+2025-04-30 11:48:51,519 - INFO - Epoch 143/150
+2025-04-30 11:48:57,060 - INFO - Train Loss: 0.3719, Train Accuracy: 0.7399
+2025-04-30 11:48:57,363 - INFO - Val Loss: 6.2447, Val Accuracy: 0.5730
+2025-04-30 11:48:57,363 - INFO - Epoch 144/150
+2025-04-30 11:49:02,861 - INFO - Train Loss: 0.3007, Train Accuracy: 0.7763
+2025-04-30 11:49:03,163 - INFO - Val Loss: 6.8593, Val Accuracy: 0.5792
+2025-04-30 11:49:03,163 - INFO - Epoch 145/150
+2025-04-30 11:49:08,562 - INFO - Train Loss: 0.2920, Train Accuracy: 0.7825
+2025-04-30 11:49:08,853 - INFO - Val Loss: 6.8890, Val Accuracy: 0.5796
+2025-04-30 11:49:08,853 - INFO - Epoch 146/150
+2025-04-30 11:49:14,701 - INFO - Train Loss: 0.2976, Train Accuracy: 0.7810
+2025-04-30 11:49:15,002 - INFO - Val Loss: 6.4664, Val Accuracy: 0.5700
+2025-04-30 11:49:15,003 - INFO - Epoch 147/150
+2025-04-30 11:49:20,488 - INFO - Train Loss: 0.3293, Train Accuracy: 0.7556
+2025-04-30 11:49:20,789 - INFO - Val Loss: 6.6145, Val Accuracy: 0.5741
+2025-04-30 11:49:20,789 - INFO - Epoch 148/150
+2025-04-30 11:49:26,354 - INFO - Train Loss: 0.3001, Train Accuracy: 0.7780
+2025-04-30 11:49:26,655 - INFO - Val Loss: 6.8285, Val Accuracy: 0.5783
+2025-04-30 11:49:26,655 - INFO - Epoch 149/150
+2025-04-30 11:49:32,193 - INFO - Train Loss: 0.2911, Train Accuracy: 0.7847
+2025-04-30 11:49:32,540 - INFO - Val Loss: 7.1014, Val Accuracy: 0.5899
+2025-04-30 11:49:32,574 - INFO - Best model saved with accuracy: 0.5899
+2025-04-30 11:49:32,574 - INFO - Epoch 150/150
+2025-04-30 11:49:38,121 - INFO - Train Loss: 0.2973, Train Accuracy: 0.7803
+2025-04-30 11:49:38,414 - INFO - Val Loss: 6.9164, Val Accuracy: 0.5858
+2025-04-30 11:49:38,414 - INFO - Training complete.
